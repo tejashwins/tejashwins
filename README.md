@@ -1,6 +1,4 @@
-[[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-)]([https://rishavchanda.io](http://ww6.rishavchanda.io/)
-)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVo4bzJWY245SGZvYVdRajg2RDUwdXJSTmJkZ3xBQ3Jtc0tsaVg4R1l3ZGNhX0dCRUg4SXpwbG1qcW1rNVVVeGJyVVluMHNXUGxQaU05Tml6Sm10OEthb1NwUkdmVFJWMEpUd2VqekdrazBiTUkwN19nam4zVFk0QnhTMk5pd0lzeTZpYUJRa09ENF9yTTQ3bU9NYw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tejashwin</h1>
 <h3 align="center">A passionate developer from India</h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
