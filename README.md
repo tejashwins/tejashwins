@@ -10,8 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-")
 
 <a href="https://linkedin.com/in/tejashwin saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejashwin saravanan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejash2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejash2181" height="30" width="40" /></a>
