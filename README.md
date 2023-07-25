@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejashwin</h1>
 <h3 align="center">A passionate developer from India</h3>
- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/116207...
+ <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/116207...
 ">
 - 🔭 I’m currently studying 4th year **engneering**
 
